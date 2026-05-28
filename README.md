@@ -1,7 +1,7 @@
 # Hi there, I'm Paddy! 👋
 
 ## 👨‍💻 About Me
-A senior data scientist and technical lead with over 10 years’ experience delivering complex survey analysis and evidence-based insights in public-sector and research environments. I specialise in applying advanced analytics using R and Python to large, longitudinal survey datasets to support system performance monitoring, policy development, and executive decision-making.
+A senior data engineer and technical lead with over 10 years’ experience delivering complex survey analysis and evidence-based insights in public-sector and research environments. I specialise in applying advanced analytics using R and Python to large, longitudinal survey datasets to support system performance monitoring, policy development, and executive decision-making.
 
 
 - 📊 **Data Expertise:** Skilled in data governance, deep analysis, collection, preprocessing, and scalable coding.
@@ -12,7 +12,7 @@ A senior data scientist and technical lead with over 10 years’ experience deli
 
 ## 🛠️ Tech Stack & Tools
 
-### 🧠 Data Science & AI
+### 🧠 Data Engineer, AI, Data Governance
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="70" height="70"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="70" height="70"/>
@@ -22,12 +22,7 @@ A senior data scientist and technical lead with over 10 years’ experience deli
 
 </div>
 
-### 📊 Data Engineering & Governance
-![SQL](https://shields.io)
-![Apache Spark](https://shields.io)
-![Databricks](https://shields.io)
-![Snowflack](https://shields.io)
-![Postman](https://shields.io)
+
 ---
 
 ## 📈 GitHub Statistics
