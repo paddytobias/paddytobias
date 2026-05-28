@@ -1,7 +1,8 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Paddy! 👋
 
 ## 👨‍💻 About Me
-Senior Data Scientist eager to apply my skills to exciting opportunities. I bridge the gap between advanced data theory and practical software execution, focusing on turning complex datasets into scalable AI solutions.
+A senior data scientist and technical lead with over 10 years’ experience delivering complex survey analysis and evidence-based insights in public-sector and research environments. I specialise in applying advanced analytics using R and Python to large, longitudinal survey datasets to support system performance monitoring, policy development, and executive decision-making.
+
 
 - 📊 **Data Expertise:** Skilled in data governance, deep analysis, collection, preprocessing, and scalable coding.
 - 🤖 **Tech & AI:** Experienced in software development, APIs, and AI integration.
