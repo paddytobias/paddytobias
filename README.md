@@ -17,6 +17,7 @@ A senior data scientist and technical lead with over 10 years’ experience deli
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="70" height="70"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="70" height="70"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="70" height="70"/>
+  <img src="https://simpleicons.org/icons/tidyverse.svg" title="Tidyverse" alt="Tidyverse" width="70" height="70"/>
 </div>
 
 ### 📊 Data Engineering & Governance
